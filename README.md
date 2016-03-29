@@ -1,0 +1,2 @@
+# life
+My casual blog

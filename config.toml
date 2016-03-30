@@ -4,19 +4,51 @@ languageCode = "en-EN"
 
 title = "Jakshi's casual blog"
 
-copyright = "(c) 2012-2016 Kostiantyn Lysenko."
+copyright = "&copy; 2012-2016 Kostiantyn Lysenko."
 
 theme = "blackburn"
 
-disqusShortname = "jakshi-life"
+canonifyurls = true
 
-[author]
-    name = "Kostiantyn Lysenko"
-    email = "gjakshi@gmail.com"
+editor = "emacs"
+
+[indexes]
+  tag = "tags"
+  topic = "topics"
 
 [params]
-    home = "home"
-    highlight = "default"
+  disqus = "jakshi-life"
 
-    github = "jakshi" # Your Github profile ID
-    
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"
+  [[menu.main]]
+    name = "Contact"
+    pre = "<i class='fa fa-phone fa-fw'></i>"
+    weight = 3
+    url = "/contact/"
+
+[social]
+  facebook = "fjakshi"
+  googleplus = "KonstantinLysenko"
+  linkedin = "konstantinlysenko"
+  xing = "Kostiantyn_Lysenko"
+  github = "jakshi"
+  bitbucket = "jakshi"

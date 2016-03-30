@@ -10,7 +10,7 @@ date = "2013-12-30T11:52:00+07:00"
     * go for short travel to Germany.
     * Finish [Introduction to Finance course](https://www.coursera.org/course/introfinance) on [Coursera](https://www.coursera.org/)
 
-<!-- more -->
+<!--more-->
 
 * Most interesting/inspiring people I met this year:
     * Sergey Balbeko - IT infrastructure developer, hipster. He shows me how strong you need to crave for new knowledge. That it's very important to constantly develope yourself.

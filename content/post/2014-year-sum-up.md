@@ -10,7 +10,7 @@ date = "2015-01-01T07:52:00+07:00"
     * Finish 2 [Coursera](https://www.coursera.org/) courses [Web Application Architectures](https://www.coursera.org/course/webapplications) and [A Beginner's Guide to Irrational Behavior](https://www.coursera.org/course/behavioralecon)
     * I learnt TDD approach to writing code, and applied it in practice. It's just awesome.
 
-<!-- more -->
+<!--more-->
 
 * Most interesting/inspiring people I met this year:
     * Kaveh Mousavi Zamani - Software developer and DevOps engineer. He tought me that simplicity is a virtue for DevOps and complexity can kill your infrastructure projects.

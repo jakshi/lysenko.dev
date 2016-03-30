@@ -1,3 +1,22 @@
 baseurl = "http://life.jakshi.com/"
-languageCode = "en-us"
+
+languageCode = "en-EN"
+
 title = "Jakshi's casual blog"
+
+copyright = "(c) 2012-2016 Kostiantyn Lysenko."
+
+theme = "blackburn"
+
+disqusShortname = "jakshi-life"
+
+[author]
+    name = "Kostiantyn Lysenko"
+    email = "gjakshi@gmail.com"
+
+[params]
+    home = "home"
+    highlight = "default"
+
+    github = "jakshi" # Your Github profile ID
+    

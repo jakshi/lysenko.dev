@@ -7,7 +7,7 @@ date = "2012-12-31T16:34:00+07:30"
     * Went to big travel to Asia, living in Thailand during 2012/2013 winter.
     * Went for short travel to Greece and UAE. 
 
-<!-- more -->
+<!--more-->
 
 * Most interesting/inspiring people I met this year:
     * Taxi driver Ali in UAE who can talk on 7 languages very good and knows about 15 languages not very well (but still can speak them)
@@ -22,7 +22,6 @@ date = "2012-12-31T16:34:00+07:30"
     * Learn how to build sites with RoR
 
 # What did not go well
-
 I:
 
   * still have not much money so a lot of plans still postponed
@@ -32,7 +31,6 @@ I:
   * don't pay enough attention to sport activity
 
 # What went well
-
 I:
 
   * traveled a lot, it was life changing experience!

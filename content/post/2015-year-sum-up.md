@@ -70,7 +70,7 @@ I want to:
 
 * sleep 8 hours per day and walk a lot
 * fix my health problems 
-* make my eyesight better than this year.
+* make my eyesight better than last year.
 * travel to 3 new foreign countries.
 * start programming on golang and lisp.
 * have 50$ per hour rates

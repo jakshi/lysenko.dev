@@ -7,8 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>&amp;copy; 2012-2016 Kostiantyn Lysenko.</copyright>
-    <lastBuildDate>Wed, 30 Mar 2016 23:32:55 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 Apr 2016 22:17:00 +0800</lastBuildDate>
     <atom:link href="http://life.jakshi.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contacts</title>
+      <link>http://life.jakshi.com/contact/</link>
+      <pubDate>Sun, 10 Apr 2016 22:17:00 +0800</pubDate>
+      
+      <guid>http://life.jakshi.com/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;messengers:3c4864f00d23f7ea35511ec930ce1d9c&#34;&gt;Messengers&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;skype_id&lt;/strong&gt;: &lt;code&gt;jakshi_&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;telegram&lt;/strong&gt;: &lt;code&gt;@jakshi&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>2015 year sum up</title>

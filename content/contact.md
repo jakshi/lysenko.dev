@@ -1,7 +1,6 @@
 +++
 date = "2016-04-10T22:17:00+08:00"
 description = ""
-draft = true
 tags = []
 title = "Contacts"
 topics = []

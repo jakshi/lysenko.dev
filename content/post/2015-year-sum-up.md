@@ -26,12 +26,12 @@ topics = []
     * **Torsten Förtsch**
         * I got more comprehensive view of IT infrastructure systems because of things that Torsten shows me. 
         * I saw what it means to be life-long engineer, and I would like to follow this path. 
-        * Also, he is German and he speaks Russian fluently. It makes me to continue learning German.
     * **Jean-Yves Sireau**
-        * I learnt from him how important for business is to make fast decision and make fast progress. What did it change in my way of thinking? I understand that I should become faster. Problem should be resolved fast. And solutions that brings fast results are better in general etc.
+        * I learnt from him how important for business is to make fast decision and make fast progress. What did it change in my way of thinking? I understand that I should become faster. Problem should be resolved fast. And solutions that brings fast results are better in general.
 
-* New hobby this year:
-    * reading books
+* Two new hobbies this year:
+    * Reading books
+    * Hiking
 
 * Two might-have-been dream in this year:
     * make my eyesight better than last year.
@@ -68,7 +68,7 @@ I:
 
 I want to:
 
-* sleep 8 hours per day and walk a lot
+* sleep 8 hours per day and walk&hike a lot
 * fix my health problems 
 * make my eyesight better than last year.
 * travel to 3 new foreign countries.

@@ -12,7 +12,7 @@ env:
     - DEPLOY_BRANCH="master"
 
 before_install:
-  - openssl aes-256-cbc -K $encrypted_e0ecff1c9756_key -iv $encrypted_e0ecff1c9756_iv -in travis_id_rsa.enc -out id_rsa -d
+  - openssl aes-256-cbc -K $encrypted_d59617ad8abb_key -iv $encrypted_d59617ad8abb_iv -in travis_id_rsa.enc -out id_rsa -d
 
 install:
   - true

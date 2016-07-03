@@ -8,10 +8,11 @@ topics = []
 
 # Common info
 
+
 * name: Konstantin Lysenko
-* occupation: DevOp
-* work at: Binary Group Services Sdn Bhd
-* live at: Cyberjaya, Malaysia
+* occupation: DevOps Engineer
+* work at: [DDProperty.com](http://www.ddproperty.com/en/about)
+* live at: Bangkok, Thailand
 
 # Interests
 

@@ -1,2 +1,4 @@
-# life
-My casual blog
+# About
+
+* My casual blog
+* Powered by Hugo

@@ -33,7 +33,7 @@ For some reason I skipped 2016 year's sum-up, so I will write two years sum-up t
 # Two might-have-been dream in this year:
 
 * I could sleep 8 hours per day - but I constantly find some excuses.
-* I might talk in Thai alrady, but I'm too lazy to practice Thai.
+* I might speak Thai already, but I'm too lazy to practice Thai.
 
 # What did not go well
 
@@ -45,7 +45,7 @@ For some reason I skipped 2016 year's sum-up, so I will write two years sum-up t
 # What went well
 
 * Our sun Ilya is growing and bring us a lot of joy :)
-* After I bought a car in Thailand, we travelled a lot around Bangkok. We visited Khao-Yai, Pattaya, Rayong, Koh-Change, Cha-am and Hua-Hin. Most of those places were visited several times.
+* After I bought a car in Thailand, we travelled a lot around Bangkok. We visited Khao-Yai, Pattaya, Rayong, Koh Chang, Cha-am and Hua-Hin. Most of those places were visited several times.
 * Our family travelled to Ukraine. I was very impressed by fully electical taxis (+ network of electic chargers) in Kharkiv. Coffee, food and coworking places were also fantastic.
 * We rented our new apartment near PropertyGuru Bangkok's office, it was a fantastic decision (especially taking in account horrible Bangkok's traffic jams). And overall we have a better apartment than before.
 * I was promoted to a DevOps Team Lead role, and I would like to become a good IT engineering leader.

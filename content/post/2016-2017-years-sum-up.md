@@ -65,7 +65,7 @@ For some reason I skipped 2016 year's sum-up, so I will write two years sum-up t
 * have 50$ per hour rates - I got closer to this goal, still in progress.
 * learn ansible, salt and puppet - I learnt salt, and a bit of puppet. Ansible is not needed for me as for now.
 * get more DBA skills at MySQL and PostgreSQL - This one is inifinite goal, but mostly I'm happy with my DB knowledge progress.
-* start speaking on Thai language, even if it will be very simple talks - I'm procrastinating on that.
+* start speaking Thai language, even if it will be very simple talks - I'm procrastinating on that.
 
 
 # What I would like to achieve in new year?

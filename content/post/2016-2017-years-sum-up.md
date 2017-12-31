@@ -8,7 +8,7 @@ topics = []
 
 +++
 
-For some reason I skipped 2016 year's sum-up, so I will write a two years sup-up this year.
+For some reason I skipped 2016 year's sum-up, so I will write two years sum-up this year.
 
 * 5 important things that I did at 2016/2017 years:
     * [+1 in our familty](/img/me_and_ilya.jpg), his name is Ilya.

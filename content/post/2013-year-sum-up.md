@@ -16,7 +16,7 @@ date = "2013-12-30T11:52:00+07:00"
     * Sergey Balbeko - IT infrastructure developer, hipster. He shows me how strong you need to crave for new knowledge. That it's very important to constantly develope yourself.
     * Anzhela Piage - Entrepreneur, psychologist. She shows me how important to think about win-win strategy not only with people, but with all the world around us.
     * Evgeniy Kuzmenko - Businessman. Man that shows me how important to be optimistic and persistent.
-    * Tanya Shorokhova - Art director. She inspires me to see [owls around us](/images/owl.jpg).
+    * Tanya Shorokhova - Art director. She inspires me to see [owls around us](/img/owl.jpg).
     * Oscar - millionaire from the sratch. Man that prove the idea that win-win strategy better than win-lose one. Also confirm the point that to be rich you need to work a lot and be very persistent.
 * people that change my way to thinking this year:
     * Sergey Balbeko - He inspires me to be more open-minded about IT world and I learnt that social interaction is important (more important that I thought before).
@@ -42,7 +42,7 @@ I:
 
 I:
 
-  * learnt how to [drive a car](/images/me_and_a_car.jpg), I drove sedan, crossover, pick-up. In city, town, rural roads, highways.
+  * learnt how to [drive a car](/img/me_and_a_car.jpg), I drove sedan, crossover, pick-up. In city, town, rural roads, highways.
   * traveled a lot, it was life changing experience! I traveled more than last year, because I can drive a car now. I was in several national parks in Krabi province and traveled by car to Penang island in Malaysia.
   * was programming more, My developer skills became better, I learnt basics of Python, Javascript and my Ruby is almost fluent already.
   * I learnt basics of CSS and HTML.

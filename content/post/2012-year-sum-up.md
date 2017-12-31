@@ -38,4 +38,4 @@ I:
   * finished statistics course on [Coursera](https://www.coursera.org/) and got again that learning is fun.
   * became quite good in writing [opscode chef](http://www.opscode.com/chef/) recipes/cookbooks.
   * began to ride a bycicle again after 10 years of neglecting and was snorkeling in Mediterranean sea.
-  * learnt how to [drive motor scooter](/images/me_on_the_motor_scooter.jpg)
+  * learnt how to [drive motor scooter](/img/me_on_the_motor_scooter.jpg)

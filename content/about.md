@@ -1,5 +1,5 @@
 +++
-date = "2016-04-11T13:39:00+08:00"
+date = "2017-12-31T16:00:00+07:00"
 description = ""
 tags = []
 title = "About"
@@ -10,8 +10,8 @@ topics = []
 
 
 * name: Konstantin Lysenko
-* occupation: DevOps Engineer
-* work at: [DDProperty.com](http://www.ddproperty.com/en/about)
+* occupation: DevOps Engineers Team Lead
+* work at: [PropertyGuru Group](https://www.propertygurugroup.com/)
 * live at: Bangkok, Thailand
 
 # Interests

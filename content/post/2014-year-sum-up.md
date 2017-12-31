@@ -5,7 +5,7 @@ date = "2015-01-01T07:52:00+07:00"
 
 * 5 important things that I did this year: 
     * Got Married.
-    * Learnt how to [drive a motorcycle](/images/me_on_the_motorcycle.jpg). Bought my first motorcycle.
+    * Learnt how to [drive a motorcycle](/img/me_on_the_motorcycle.jpg). Bought my first motorcycle.
     * live whole year in Asia, in Thailand, Krabi and Malaysia, Cyberjaya during 2013/2014 year.
     * Finish 2 [Coursera](https://www.coursera.org/) courses [Web Application Architectures](https://www.coursera.org/course/webapplications) and [A Beginner's Guide to Irrational Behavior](https://www.coursera.org/course/behavioralecon)
     * I learnt TDD approach to writing code, and applied it in practice. It's just awesome.

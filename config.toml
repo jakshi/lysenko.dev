@@ -2,7 +2,7 @@ baseurl = "//lysenko.dev/"
 
 languageCode = "en-EN"
 
-title = "Jakshi's casual blog"
+title = "Kostiantyn Lysenko's casual blog"
 
 copyright = "&copy; 2012-2019 Kostiantyn Lysenko."
 
@@ -18,7 +18,7 @@ editor = "emacs"
 
 [params]
   disqus = "jakshi-life"
-
+  googleAnalytics = "UA-15926665-7"
 [menu]
   # Shown in the side menu.
   [[menu.main]]

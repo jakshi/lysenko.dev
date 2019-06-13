@@ -1,4 +1,4 @@
 # About
 
-* My casual blog
+* Kostiantyn Lysenko's casual blog
 * Powered by Hugo

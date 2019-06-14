@@ -1,7 +1,7 @@
 language: go
 
 go:
-  - "1.12.2"
+  - "1.12.5"
 
 env:
   global:
@@ -18,7 +18,7 @@ install:
   - true
   
 before_script:
-  - go get -u -v github.com/gohugoio/hugo
+  - ./scripts/install_hugo.sh
 
 script:
   - hugo

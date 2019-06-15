@@ -44,6 +44,12 @@ editor = "emacs"
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 3
     url = "/contact/"
+  [[menu.main]]
+    name = "My DevOps Blog"
+    pre = "<i class='fa fa-server fa-fw'></i>"
+    identifier = "external-my-devops-blog"
+    weight = 4
+    url = "https://verydevops.com"
 
 [social]
   facebook = "fjakshi"

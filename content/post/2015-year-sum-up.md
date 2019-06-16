@@ -2,7 +2,7 @@
 date = "2016-03-30T23:32:55+08:00"
 description = ""
 draft = false
-tags = []
+tags = ["yearly sum up"]
 title = "2015 year sum up"
 topics = []
 

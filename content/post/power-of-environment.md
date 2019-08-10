@@ -12,3 +12,6 @@ Example: want to lose wight? Buy smaller plates :)
 """
 +++
 
+Good article about power of environment.  
+Example: want to lose wight? Buy smaller plates :)  
+[Motivation is Overvalued. Environment Often Matters More.](https://jamesclear.com/power-of-environment)

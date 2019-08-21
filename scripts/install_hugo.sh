@@ -1,6 +1,6 @@
 #!/bin/bash
 
-HUGO_VERSION=0.55.6
+HUGO_VERSION=0.57.2
 
 # Dependency needed for hugo extended on travis
 wget -q -O libstdc++6 http://security.ubuntu.com/ubuntu/pool/main/g/gcc-5/libstdc++6_5.4.0-6ubuntu1~16.04.10_amd64.deb

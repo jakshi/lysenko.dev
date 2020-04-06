@@ -13,15 +13,18 @@ topics = []
     * I started to do Yoga.
     * We travelled to Krabi on our car
     * We travelled to the Khao Kho on our car.
+    * I travelled to Vietnam +1 new country this year.
+    * I bought a bigger car for us to travel.
 
 <!--more-->
 
 * Most interesting/inspiring people I met during 2018 years:
-    * **Pedro Pereira** - Leader, Engineering manager in PropertyGuru Group. 
+    * **Pedro Pereira** - Leader, Engineering manager in PropertyGuru Group.
 
 # New hobby this year:
 
 * Yoga with DownDog app.
+* Learning Thai language with Drops app.
 
 # Two might-have-been dream in this year:
 
@@ -43,9 +46,9 @@ I want to:
 
 * sleep 8 hours per day.
 * Have a weight <= 90 kg.
-* fix my health problems.
+* fix my health problems - IN PROGRESS, one issue fixed.
 * make my eyesight better than before.
-* travel to 1 new foreign country.
+* travel to 1 new foreign country - DONE.
 * start programming on golang.
 * have 50$ per hour rates.
 * start speaking on Thai language, even if it will be very simple talks.

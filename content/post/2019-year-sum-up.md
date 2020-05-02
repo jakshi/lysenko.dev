@@ -14,10 +14,10 @@ Due to procrastination I delayed my sum-up for year 2019 till May 2020, but here
 * One health issue solved.
 * I started to do Yoga.
 * I reduced my weight from ~105 kg to <= 95 kg.
-* We travelled to the Khao Kho and Nam Nao in Thailand on our car.
+* We travelled to the Khao Kho and Nam Nao in Thailand by car.
 * [We travelled to Japan](/img/ilya_on_okinawa.jpg) and I drove a rental car in Japan :)
 * I travelled to Vietnam so +2 new countries this year.
-* I bought a bigger car for us to travel.
+* [I bought a bigger car](/img/me_and_a_car2.jpg) for us to travel.
 * and we travelled to Krabi on it.
 * Our familty (will) have +1 baby in 2020 bringing babies amount up to 2 :)
 
@@ -54,10 +54,11 @@ Due to procrastination I delayed my sum-up for year 2019 till May 2020, but here
 * I do daily Yoga excercises.
 * I bought a bigger car for our family.
 * We will have a second baby in 2020 :)
-* I finally stopped procrastinating on my health issues and fixed one of them.
+* I stopped procrastinating on my health issues and fixed one of them.
 * I finally wrote this 2019 sum-up and I'm very proud of myself :)
 
 # What I wanted to achieve last year and what happened?
+And what do I plan to do about that? :D
 
 * sleep 8 hours per day and walk&hike a lot:
   * walk&hike is going well, but for some reason I don't sleep enough.
@@ -72,13 +73,13 @@ Due to procrastination I delayed my sum-up for year 2019 till May 2020, but here
   * Done, I travelled to 2 new foreign countries - Vietnam and Japan.
 * start programming on golang.
   * I'm procrastinating on that.
+  * I'll start go to leetcode.com. At least I'll write some simple code excercises.
 * have 50$ per hour rates.
   * I got closer to this goal, still in progress.
 * start speaking Thai language, even if it will be very simple talks.
   * I started to learn Thai every day for >= 5 minutes. Of course it's not much - but it's an everyday progress.
 
 # What I would like to achieve in new year?
-
 I want to:
 
 * sleep >= 8 hours per day for at least 15 days per month.
@@ -88,4 +89,4 @@ I want to:
 * travel to 1 new foreign country.
 * write code >= 3 days per week. programming language doesn't matter.
 * have >= 50$ per hour rates.
-* start speaking on Thai language, even if it will be very simple talks.
+* start speaking Thai, even if it will be very simple talks.

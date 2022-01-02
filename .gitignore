@@ -56,3 +56,4 @@ vendor
 
 # hugo
 public/*
+.hugo_build.lock

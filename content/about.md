@@ -9,10 +9,10 @@ topics = []
 # Common info
 
 
-* name: Konstantin Lysenko
-* occupation: DevOps Engineers Team Lead
+* name: Kostiantyn Lysenko
+* occupation: DevOps Team Lead
 * work at: [PropertyGuru Group](https://www.propertygurugroup.com/)
-* live at: Bangkok, Thailand
+* live in: Bangkok, Thailand
 
 # Interests
 
@@ -20,5 +20,4 @@ topics = []
 * Traveling
 * Meet interesting people
 * Learning languages
-* Snorkeling
 * Hiking

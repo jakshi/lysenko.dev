@@ -10,7 +10,7 @@ task :deploy, :message do |t, args|
   puts "Deploying updates to GitHub...".green
   sh 'hugo' # Build site
   sh 'git add -A' # Add all files to git stage
-  sh "git commit -m '#{commit_message}'"
+  sh "git commit -m '#{commit_message}' --allow-empty"
   sh "git push #{github_destination} master"
   sh "git subtree push --prefix=public #{github_destination} gh-pages" # Publish changes
   puts "Deploy is finished".green

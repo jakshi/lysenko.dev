@@ -15,6 +15,6 @@ task :deploy, :message do |t, args|
   sh "git checkout gh-pages"
   sh "git pull"
   sh "git checkout master"
-  sh "git subtree push --prefix=public #{github_destination} gh-pages" # Publish changes
+  sh "git subtree push --prefix=public #{github_destination} gh-pages --force" # Publish changes
   puts "Deploy is finished".green
 end

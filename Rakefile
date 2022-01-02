@@ -1,4 +1,5 @@
 require 'colorize'
+require 'open3'
 
 github_destination = 'origin'
 default_commit_message="rebuilding site #{Time.now}"
@@ -15,6 +16,7 @@ task :deploy, :message do |t, args|
   sh "git checkout gh-pages"
   sh "git pull"
   sh "git checkout master"
-  sh "git subtree push --force --prefix=public #{github_destination} gh-pages" # Publish changes
+
+  sh "git subtree push --prefix=public #{github_destination} gh-pages" # Publish changes
   puts "Deploy is finished".green
 end

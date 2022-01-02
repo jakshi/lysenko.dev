@@ -55,5 +55,9 @@ lib/bundler/man
 vendor
 
 # hugo
-public/*
+# To make Rake deployment work - I need to have public dir in the repository
+# Because it based on git commands
+# That expect public to be in git repository
+# Can be removed as we migrate the repository to CI/CD
+# public/*
 .hugo_build.lock

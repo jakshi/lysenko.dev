@@ -20,6 +20,10 @@ So it will be both 2020 and 2021 years sum-up.
 
 <!--more-->
 
+# Most interesting/inspiring people I met during 2019 years:
+
+* **Arthi Jaganathan** - Principal Solutions Architect at Amazon Web Services (AWS). I was amazed by Arthi sheer amount of knowledge in AWS and IT engineering and ability to learn new things. Something unknown? Let's do POC. Okay - it's known now :) I was really inspired to learn new things by her approach.
+
 # New hobby this year:
 
 * I realize that I really like to look at street art :)

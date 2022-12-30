@@ -51,6 +51,7 @@ topics = []
   * Nong Khai
   * Mukdahan
   * Buriram
+  * Ratchaburi
   * Nakhon Ratchasima
 * I do daily Yoga excercises.
 * I finally parted paths with my wisdom teeth

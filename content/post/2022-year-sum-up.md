@@ -12,7 +12,7 @@ topics = []
 
 * One health issue solved.
 * We travelled a lot in Thailand by car.
-* I finally travel out of the Thailand (to Singapore) since covid-19 started
+* I travelled to Singapore, first time out of Thailand since covid-19 started
 * I organized several Bangkok's DevOps Fridays and visited bunch of other developers meet-ups.
 * I'm reading books again :)
 * I made a nice work setup at home office.

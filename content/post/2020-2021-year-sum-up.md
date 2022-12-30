@@ -75,8 +75,8 @@ I want to:
 * Have my weight <= 90 kg.
   * Do at least 8000 steps every day
 * fix >= 2 of my health problems
-* get rid of my wisdom teeth
-* make my eyesight better than before.
+  * get rid of my wisdom teeth
+  * make my eyesight better than before.
 * write code >= 3 days per week. programming language doesn't matter.
 * earn 5000 USD per month after expenses.
   * start investing in ETF fund(s)

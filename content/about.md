@@ -1,6 +1,6 @@
 +++
-date = "2017-12-31T16:00:00+07:00"
-description = ""
+date = "2023-01-01T18:17:00+07:00"
+description = "Short page about myself"
 tags = []
 title = "About"
 topics = []
@@ -10,7 +10,7 @@ topics = []
 
 
 * name: Kostiantyn Lysenko
-* occupation: DevOps Team Lead
+* occupation: SRE Team Lead
 * work at: [PropertyGuru Group](https://www.propertygurugroup.com/)
 * live in: Bangkok, Thailand
 

@@ -31,7 +31,7 @@ I decided to switch to quarterly sum-ups to reflect on my life more often
 I want to:
 
 * I want to plan every comming day.
-* sleep >= 8 hours per day for at least 15 days per month.
+* sleep >= 7:30 hours per day for at least 20 days per month.
   * Get a better sleeping place for myself.
 * Have my weight <= 90 kg.
   * Do at least 8000 steps every day
@@ -46,7 +46,7 @@ I want to:
 I wanted:
 
 * I want to plan every comming day.
-* sleep >= 8 hours per day for at least 15 days per month.
+* sleep >= 7:30 hours per day for at least 20 days per month.
   * Get a better sleeping place for myself.
 * Have my weight <= 90 kg.
   * Do at least 8000 steps every day

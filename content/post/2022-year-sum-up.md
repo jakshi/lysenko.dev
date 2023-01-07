@@ -74,7 +74,7 @@ topics = []
 I want to:
 
 * I want to plan every comming day.
-* sleep >= 8 hours per day for at least 15 days per month.
+* sleep >= 7:30 hours per day for at least 20 days per month.
   * Get a better sleeping place for myself.
 * Have my weight <= 90 kg.
   * Do at least 8000 steps every day
@@ -91,6 +91,9 @@ I wanted:
 * sleep >= 8 hours per day for at least 15 days per month.
   * Still working on it
   * Best results I got from planning comming day in advance with a first priority to go to sleep early.
+  * I noticed that I often sleep around 7:40 - 7:50 hours and then fell myself well - but it doesn't count towards the goal.
+    * so I'll reduce expectation from more than 8:00 hours towards more than 7:30 hours of sleep per day in 2023 but increase number of days when it should be achieved from 15 to 20 days in a month.
+  * Also during 2022 December holidays me and my wife made a dedicated kids room - I hope it will contribute to better sleep for us both.
 * Have my weight <= 90 kg.
   * Do at least 8000 steps every day
   * Not even close - need to work more on it in 2023.

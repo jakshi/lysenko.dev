@@ -27,6 +27,10 @@ I decided to switch to quarterly sum-ups to reflect on my life more often
 
 # What went well
 
+* I did ReLEX SMILE eye corrective surgery in TRSC clinic
+  * 1 health problem solved!
+  * On first day after suregery I could see 20/25, and before with the best glasses I had around 20/32.
+
 # What I would like to achieve in 2023Q2?
 I want to:
 

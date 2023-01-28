@@ -69,6 +69,8 @@ topics = []
 * A lot of cleaning and organizing of my virtual and phisical stuff
   * I especially proud of getting rid of 600 open tabs in Firefox and about 200 in mobile Chrome :D
     * All interesting articles to read now saved to organized markdown file.
+* Not that it was a problem, however I reduced alcohol comsumption to one or two drinks per 3-4 months.
+  * And it feels quite good, I'm going to continue :)
 
 # What I would like to achieve in 2023?
 I want to:

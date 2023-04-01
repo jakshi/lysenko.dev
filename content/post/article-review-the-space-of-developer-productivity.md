@@ -5,16 +5,13 @@ draft = false
 tags = ["productivity", "review", "article"]
 topics = []
 description = ""
-summary = """
-Great article about developers productivity:
-[The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
-And my thoughts about it.
-"""
 +++
 
-Great article about developers productivity:
-[The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)
+Great article about developers productivity:  
+[The SPACE of Developer Productivity](https://queue.acm.org/detail.cfm?id=3454124)  
 And my thoughts about it.
+
+<!--more-->
 
 Most interesting insights for me:
 

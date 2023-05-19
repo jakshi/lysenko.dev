@@ -1,5 +1,5 @@
 +++
-date = "2023-01-02T16:54:00+07:00"
+date = "2023-03-31T12:00:00+07:00"
 description = ""
 draft = true
 tags = ["quarterly sum up"]
@@ -23,6 +23,11 @@ I decided to switch to quarterly sum-ups to reflect on my life more often
 
 # Two might-have-been dream in this quarter:
 
+* Solve 2 health problems.
+  * Unfortuantely I'm too lazy
+* Fix my sleep pattern
+  * I imporeved in sleep - but I still have long way to go
+
 # What did not go well
 
 # What went well
@@ -30,6 +35,14 @@ I decided to switch to quarterly sum-ups to reflect on my life more often
 * I did ReLEX SMILE eye corrective surgery in TRSC clinic
   * 1 health problem solved!
   * On first day after suregery I could see 20/25, and before with the best glasses I had around 20/32.
+  * [Relex Smile surgery day 1](/img/relex-smile-surgery-day1.jpeg)
+  * [Relex Smile surgery week 1](/img/relex-smile-surgery-week1.jpeg)
+  * [Relex Smile surgery month 1](/img/relex-smile-surgery-month1.jpeg)
+  * [Relex Smile surgery month 3](/img/relex-smile-surgery-month3.jpeg)
+* I fixed CI/CD for my blog and started to write articles again
+* I preform much better with walking this year
+* We have a successful trip with kids to neighboring town to visit a zoo and celebrate our daughter 3rd birthday :)
+* I started to read "Psychology of Money" and "The Little Common Sense Investing" books - that is quite interesting.
 
 # What I would like to achieve in 2023Q2?
 I want to:

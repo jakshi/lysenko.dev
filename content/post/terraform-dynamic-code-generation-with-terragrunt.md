@@ -11,7 +11,7 @@ topics = []
 # Intro
 
 This story started when I wanted to apply external `terraform` module to multiple AWS accounts.  
-Note: module, variable names and AWS account names are changed to protect the innocents.
+Note: module, variable names and AWS account names are changed to protect innocents.
 
 <!--more-->
 

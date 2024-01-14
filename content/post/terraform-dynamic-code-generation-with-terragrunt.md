@@ -11,7 +11,7 @@ topics = []
 # Intro
 
 This story started when I wanted to apply external `terraform` module to multiple AWS accounts.  
-Note: module, variable names and AWS account names are changed to protect the innocent.
+Note: module, variable names and AWS account names are changed to protect the innocents.
 
 <!--more-->
 
@@ -58,15 +58,15 @@ Problem is that I have 10+ AWS accounts and I really don't want to repeat myself
 So - let's use `for_each` to iterate over the accounts?  
 But, alas, `for_each` can't be used with providers in terraform.
 
-There is a long thread on github about this issue: [Ability to pass providers to modules in for_each #24476](https://github.com/hashicorp/terraform/issues/24476)
+There is a long thread in terraform issue tracker on github about that: [Ability to pass providers to modules in for_each #24476](https://github.com/hashicorp/terraform/issues/24476)
 
-We already use a `terragrunt` wrapper for `terraform` to make remote state management DRY.
+In our company we already use a `terragrunt` wrapper for `terraform` to make terraform remote state management DRY.
 
 If you wonder what is `terragrunt`, it's essentially [a DRY tool for terraform](https://terragrunt.gruntwork.io/).  
 Or in other words, preprocessor for `terraform`.
 
 So I started to look through `terragrunt` documentation, because, well, if it's a preprocessor,  
-then as it executes before `terraform` - there's a good chance it can do what I want.
+then as it executes before `terraform` - there's a good chance it can do what I want.  
 And I found that `terragrunt` code generation feature.
 
 The rest is techincal details.

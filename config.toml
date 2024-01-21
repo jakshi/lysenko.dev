@@ -18,7 +18,7 @@ editor = "emacs"
 
 [params]
   disqus = "jakshi-life"
-  googleAnalytics = "UA-15926665-7"
+  googleAnalytics = "404295875"
 [menu]
   # Shown in the side menu.
   [[menu.main]]

@@ -1,5 +1,5 @@
 +++
-date = "2024-01-13T18:00:00+07:00"
+date = "2024-01-21T18:00:00+07:00"
 description = ""
 draft = true
 tags = ["quarterly sum up"]
@@ -8,23 +8,33 @@ topics = []
 
 +++
 
-# Summary of important things that I did in 2023Q1
+# Summary of important things that I did in 2023
 
+* I organized Ukrainian IT Fridays for Ukrainian IT Professionals in Bangkok.
+* I fixed my eye-sight with ReLEX SMILE surgery.
+* I renewed my car and motorcycle driving licenses.
+* I started to invest.
 
 <!--more-->
 
-# Most interesting/inspiring people I met during 2023Q1:
+# to sort
+
+* Put to 2024 review - I started to write technical articles again, even published in company tech blog.
+
+# Most interesting/inspiring people I met during 2023:
 
 # New hobby this quarter:
 
-# Two might-have-been dream in this quarter:
+# Two might-have-been dream in this year:
 
-* Solve 2 health problems.
-  * Unfortuantely I'm too lazy
 * Fix my sleep pattern
   * I imporeved in sleep - but I still have long way to go
+* Walk more
+  * I improved in walking - but I still have long way to go
 
 # What did not go well
+
+* Electronic clutter started to grow again.
 
 # What went well
 
@@ -38,9 +48,41 @@ topics = []
 * I fixed CI/CD for my blog and started to write articles again
 * I preform much better with walking this year
 * We have a successful trip with kids to neighboring town to visit a zoo and celebrate our daughter 3rd birthday :)
-* I started to read "Psychology of Money" and "The Little Common Sense Investing" books - that is quite interesting.
+* I read some books. 20 minutes of books reading every day. Books I read:
+  * "Think again"
+  * "Phoenix project"
+  * "Millionaire teacher"
+  * "The Little Common Sense Investing"
+  * "Psychology of Money"
+  * "How to Talk So Kids Will Listen & Listen So Kids Will Talk"
+* I changed my hair style to a short one :)
+  * More time to work on important things.
+* I started to experiment with energy consumption at home
+  * Surpringly very big fridge consume not much - about 30 KWh per month.
+  * Overall - most of consumption is coming from air conditioners.
+* I built my first macropad
+* I moved to a new M2 macbook - that was surprisingly hard to move my comfortable environment
+  * So I documented my setup to avoid that pain in the future.
+* I started to code more and experimenting with Github Co-Pilot and ChatGPT
+  * So far I'm quite happy with more coding
+* I win 8k baht in Thai Lottery :D
+* We went to Van Gogh Alive in Bangkok, that was quite impressive and fascinating
+  * https://www.iconsiam.com/en/events&activities/van-gogh-alive-bangkok
+* I baked a salmon :)
+  * and it was quite edible.
+* I renew my knowledge of VIM - I'm still using Emacs, but I started to get back to VIM.
+  * Finished several VIM courses and configure spacevim in process of renewing my skills :)
+* I organized a meetings of Ukrainian IT Professionals in Bangkok.
+* I found a good font - SF-Mono nerd.
+* Trips:
+  * Chiang Mai
+  * Hua Hin
+  * Korat
+  * Jim Thompson Farm
+* I researched world of NFC cards and RFID tags.
+* I went to AWS Dev Days 2023
 
-# What I would like to achieve in 2023Q2?
+# What I would like to achieve in 2024?
 I want to:
 
 * I want to plan every comming day.
@@ -55,7 +97,7 @@ I want to:
   * start investing in ETF fund(s)
 * start speaking Thai, even if it will be very simple talks.
 
-# Retrospective on 2023Q1 goals.
+# Retrospective on 2023 goals.
 I wanted:
 
 * I want to plan every comming day.
@@ -69,34 +111,11 @@ I wanted:
 * earn 5000 USD per month after expenses.
   * start investing in ETF fund(s)
 * start speaking Thai, even if it will be very simple talks.
+
 # What went well
 
-* I changed my hair style to a short one :)
-  * More time to work on important things.
-* I started to write reviews for articles that I read
-* In general I started to read a lot
-  * 20 minutes of books reading every day
-  * I finished `Atomic Habbits` book
-  * I finished `Dilbert Principle` book
-  * I fninshed `Rich Dad Poor Dad` book
-  * I started to read quite interesting book "How to Talk So Kids Will Listen & Listen So Kids Will Talk"
-* I started to experiment with energy consumption at home
-  * Surpringly very big fridge consume not much - about 30 KWh per month.
-* I built my first macropad
-* I moved to a new M2 macbook - that was surprisingly hard to move my comfortable environment
-  * So I started to document it
-* I started to code more and experimenting with Github Co-Pilot and ChatGPT
-  * So far I'm quite happy with more coding
-* I win 8k baht in Thai Lottery :D
-* We went to Van Gogh Alive in Bangkok, that was quite impressive and fascinating
-  * https://www.iconsiam.com/en/events&activities/van-gogh-alive-bangkok
-* I baked a salmon :)
-  * and it was quite edible.
-* I renew my knowledge of VIM - I'm still using Emacs, but I started to get back to VIM.
-  * Finished several VIM courses and configure spacevim in process of renewing my skills :)
-* I organized a meetings of Ukrainian IT Professionals in Bangkok.
 
-# What I would like to achieve in 2023Q3?
+# What I would like to achieve in 2024?
 I want to:
 
 * I want to plan every comming day.
@@ -111,7 +130,7 @@ I want to:
   * start investing in ETF fund(s)
 * start speaking Thai, even if it will be very simple talks.
 
-# Retrospective on 2023Q2 goals.
+# Retrospective on 2023 goals.
 I wanted:
 
 * I want to plan every comming day.

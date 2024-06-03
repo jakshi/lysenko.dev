@@ -9,6 +9,5 @@ topics = []
 # Messengers
 
 * **email**: kostiantyn@lysenko.pw
-* **skype_id**: `jakshi_`
 * **telegram**: `@jakshi`
 * **line**: `jakshi_`

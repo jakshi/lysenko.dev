@@ -2,9 +2,10 @@
 title = "Cupid Instead of Solid"
 date = "2024-06-29T21:06:33+07:00"
 draft = false
-tags = [programming solid cupid]
+tags = ["programming" ,"solid", "cupid"]
 topics = []
 description = "CUPID instead of SOLID - get joy of programming back"
+
 +++
 
 # CUPID instead of SOLID - get joy of programming back

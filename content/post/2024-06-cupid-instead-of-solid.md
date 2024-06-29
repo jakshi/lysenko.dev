@@ -10,6 +10,8 @@ description = "CUPID instead of SOLID - get joy of programming back"
 
 # CUPID instead of SOLID - get joy of programming back
 
+<!--more-->
+
 Recently I found an interesting article about CUPID:
 
 * C - Composable

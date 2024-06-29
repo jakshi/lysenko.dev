@@ -1,5 +1,5 @@
 +++
-date = "2024-01-21T18:00:00+07:00"
+date = "2024-06-18T18:00:00+07:00"
 description = ""
 draft = true
 tags = ["quarterly sum up"]
@@ -19,11 +19,16 @@ topics = []
 
 # to sort
 
-* Put to 2024 review - I started to write technical articles again, even published in company tech blog.
+* Put to 2024 review - 
 
 # Most interesting/inspiring people I met during 2023:
 
+* Dima Maleev
+* Cong Nguyen
+
 # New hobby this quarter:
+
+* I guess playing with NFC cards and RFID tags.
 
 # Two might-have-been dream in this year:
 
@@ -35,6 +40,8 @@ topics = []
 # What did not go well
 
 * Electronic clutter started to grow again.
+* Improvements in sleep are too slow.
+* I still struggle to reduce my weight.
 
 # What went well
 
@@ -61,7 +68,7 @@ topics = []
   * Surpringly very big fridge consume not much - about 30 KWh per month.
   * Overall - most of consumption is coming from air conditioners.
 * I built my first macropad
-* I moved to a new M2 macbook - that was surprisingly hard to move my comfortable environment
+* I moved to a new M2 macbook - that was surprisingly hard to move my comfortable environment from old macbook to new one.
   * So I documented my setup to avoid that pain in the future.
 * I started to code more and experimenting with Github Co-Pilot and ChatGPT
   * So far I'm quite happy with more coding
@@ -70,8 +77,8 @@ topics = []
   * https://www.iconsiam.com/en/events&activities/van-gogh-alive-bangkok
 * I baked a salmon :)
   * and it was quite edible.
-* I renew my knowledge of VIM - I'm still using Emacs, but I started to get back to VIM.
-  * Finished several VIM courses and configure spacevim in process of renewing my skills :)
+* I renew my knowledge of VIM - I'm still using Emacs (in evil mode :D ), but I started to get back to VIM.
+  * Finished several VIM courses and configured spacevim in process of renewing my skills :)
 * I organized a meetings of Ukrainian IT Professionals in Bangkok.
 * I found a good font - SF-Mono nerd.
 * Trips:
@@ -81,11 +88,12 @@ topics = []
   * Jim Thompson Farm
 * I researched world of NFC cards and RFID tags.
 * I went to AWS Dev Days 2023
+* I started to write technical articles again, even published in company tech blog.
 
 # What I would like to achieve in 2024?
 I want to:
 
-* I want to plan every comming day.
+* I want to plan every coming day.
 * sleep >= 7:30 hours per day for at least 20 days per month.
   * Get a better sleeping place for myself.
 * Have my weight <= 90 kg.
@@ -100,7 +108,7 @@ I want to:
 # Retrospective on 2023 goals.
 I wanted:
 
-* I want to plan every comming day.
+* I want to plan every coming day.
 * sleep >= 7:30 hours per day for at least 20 days per month.
   * Get a better sleeping place for myself.
 * Have my weight <= 90 kg.
@@ -112,35 +120,3 @@ I wanted:
   * start investing in ETF fund(s)
 * start speaking Thai, even if it will be very simple talks.
 
-# What went well
-
-
-# What I would like to achieve in 2024?
-I want to:
-
-* I want to plan every comming day.
-* sleep >= 7:30 hours per day for at least 20 days per month.
-  * Get a better sleeping place for myself.
-* Have my weight <= 90 kg.
-  * Do at least 8000 steps every day
-* fix >= 2 of my health problems
-  * make my eyesight better than before.
-* write code >= 3 days per week. programming language doesn't matter.
-* earn 5000 USD per month after expenses.
-  * start investing in ETF fund(s)
-* start speaking Thai, even if it will be very simple talks.
-
-# Retrospective on 2023 goals.
-I wanted:
-
-* I want to plan every comming day.
-* sleep >= 7:30 hours per day for at least 20 days per month.
-  * Get a better sleeping place for myself.
-* Have my weight <= 90 kg.
-  * Do at least 8000 steps every day
-* fix >= 2 of my health problems
-  * make my eyesight better than before.
-* write code >= 3 days per week. programming language doesn't matter.
-* earn 5000 USD per month after expenses.
-  * start investing in ETF fund(s)
-* start speaking Thai, even if it will be very simple talks.

@@ -22,4 +22,4 @@ Recently I found an interesting article about CUPID:
 * I - Idiomatic
 * D - Domain Based
 
-And what's most interesting - it was about properties of code that make it good for fellow humans to read and understand.  
+And what's most fascinating - it is how to make code easy and comfortable for fellow humans to understand.  

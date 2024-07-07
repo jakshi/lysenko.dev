@@ -12,8 +12,6 @@ description = "CUPID instead of SOLID - get joy of programming back"
 
 Worth reading - CUPID—for joyful coding: https://dannorth.net/cupid-for-joyful-coding/
 
-<!--more-->
-
 Recently I found an interesting article about CUPID:
 
 * C - Composable
@@ -23,3 +21,5 @@ Recently I found an interesting article about CUPID:
 * D - Domain Based
 
 And what's most fascinating - it is how to make code easy and comfortable for fellow humans to understand.  
+
+<!--more-->

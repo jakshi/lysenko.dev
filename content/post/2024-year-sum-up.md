@@ -1,26 +1,25 @@
 +++
-date = "2024-06-18T18:00:00+07:00"
+date = "2024-12-22T18:00:00+07:00"
 description = ""
-draft = true
-tags = ["quarterly sum up"]
-title = "2023 year sum up"
+draft = false
+tags = ["yearly sum up"]
+title = "2024 year sum up"
 topics = []
 
 +++
 
-# Summary of important things that I did in 2023
+# Summary of important things that I did in 2024
 
-* I organized Ukrainian IT Fridays for Ukrainian IT Professionals in Bangkok.
-* I fixed my eye-sight with ReLEX SMILE surgery.
-* I renewed my car and motorcycle driving licenses.
-* I started to invest.
+* I opened for myself mindfulness practice.
+* I reduced my weight from 96 to 86 kg.
+* I rearranged my "work from home" office room to have a better working place.
 
 <!--more-->
 
 # Most interesting/inspiring people I met during 2023:
 
 
-# New hobby this quarter:
+# New hobby this year:
 
 * I started to cook more
   * A lot of simple food, like fried eggs, kashas, vegetable salads, cut fruits, baked chicken nuggets and so on.
@@ -39,12 +38,14 @@ topics = []
 
 # What went well
 
-* I managed to reduce my weight to 8x kg.
+* I managed to reduce my weight to 86 kg.
 * I greatly improved my sleep pattern.
 * I started to write code again.
+* I rearranged my "work from home" office room to have a better working place.
+    * standing desk
+    * split keyboard
 
-
-# What I would like to achieve in 2024?
+# What I would like to achieve in 2025?
 I want to:
 
 * I want to plan every coming day.
@@ -59,7 +60,7 @@ I want to:
   * start investing in ETF fund(s)
 * start speaking Thai, even if it will be very simple talks.
 
-# Retrospective on 2023 goals.
+# Retrospective on 2024 goals.
 I wanted:
 
 * I want to plan every coming day.
@@ -73,4 +74,6 @@ I wanted:
 * earn 5000 USD per month after expenses.
   * start investing in ETF fund(s)
 * start speaking Thai, even if it will be very simple talks.
+
+# Gallery
 

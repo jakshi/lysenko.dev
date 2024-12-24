@@ -2,7 +2,7 @@
 date = "2023-05-10T14:30:00+07:00"
 description = ""
 draft = false
-tags = ["chatgpt llm ai ted"]
+tags = ["chatgpt", "llm", "ai", "ted"]
 title = "Review of TED talk about AI LLM being smart and stupid"
 topics = []
 

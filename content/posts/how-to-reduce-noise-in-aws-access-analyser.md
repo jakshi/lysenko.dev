@@ -2,7 +2,7 @@
 date = "2023-05-18T14:40:00+07:00"
 description = ""
 draft = false
-tags = ["aws security automation fals-positive"]
+tags = ["aws", "security", "automation", "false-positive"]
 title = "Insights on how to reduce noise in AWS Access Analyser"
 topics = []
 

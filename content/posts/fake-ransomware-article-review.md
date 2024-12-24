@@ -2,7 +2,7 @@
 date = "2023-05-17T14:47:00+07:00"
 description = ""
 draft = false
-tags = ["security fake ransomware review"]
+tags = ["security", "ransomware"]
 title = "Review of Fake ransomware article"
 topics = []
 

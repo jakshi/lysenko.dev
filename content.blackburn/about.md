@@ -8,7 +8,6 @@ topics = []
 
 # Common info
 
-
 * name: Kostiantyn Lysenko
 * occupation: SRE Team Lead
 * work at: [PropertyGuru Group](https://www.propertygurugroup.com/)

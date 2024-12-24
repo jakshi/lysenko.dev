@@ -2,6 +2,7 @@
 title = "2014 year sum up"
 date = "2015-01-01T07:52:00+07:00"
 tags = ["yearly sum up"]
+
 +++
 
 * 5 important things that I did this year: 

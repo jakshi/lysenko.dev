@@ -3,6 +3,7 @@ date = "2022-01-01T16:00:00+07:00"
 description = ""
 draft = false
 tags = ["yearly sum up"]
+series = "retrospectives"
 title = "2020-2021 years sum up"
 topics = []
 

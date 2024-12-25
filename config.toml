@@ -59,3 +59,9 @@ disqusShortname = "jakshi-life"
 [taxonomies]
     series = 'series'
     tags = 'tags'
+
+[markup.tableOfContents]
+    startLevel = 1
+    endLevel = 3
+
+

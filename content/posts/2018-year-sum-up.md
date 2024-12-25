@@ -3,6 +3,7 @@ date = "2019-06-04T21:54:00+07:00"
 description = ""
 draft = false
 tags = ["yearly sum up"]
+series = "retrospectives"
 title = "2018 year sum up"
 topics = []
 

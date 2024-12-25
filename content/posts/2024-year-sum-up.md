@@ -15,7 +15,7 @@ topics = []
 * I reduced my weight from 96 to 86 kg.
 * I found a new job as SRE Lead at Agoda.
 * I rearranged my "work from home" office room to have a better working place.
-* I plan to add more pictures to my yearly review to illustrate what was done.
+* I added more pictures to my yearly review to illustrate what was done.
 
 <!--more-->
 
@@ -111,6 +111,10 @@ I could make this list much longer, but it wouldn't be practical, so I will limi
     * [Photos](#kids-are-growing)
 * I continue to organize Ukrainian IT Fridays
     * [Photos](#ukrainian-it-fridays-2024)
+* I do less doom scrolling now
+    * I found it's effective to install apps that add delay to opening social media apps.
+* I moved from emacs back to neovim.
+    * Now my NeoVIM config is growing :D
 
 ## Job search story in 2024
 
@@ -133,17 +137,20 @@ I could make this list much longer, but it wouldn't be practical, so I will limi
     * More coding and system design practice.
     * Mindfullness.
     * Experimenting and learning new things.
+    * Better prioritization and time management.
 
 # What I would like to achieve in 2025?
 I want to:
 
+* I want to reduce doom scrolling to less than 30 minutes per day.
 * I want to be mindful every day.
+* I want to keep my performance at work at more than expected or better level
 * sleep >= 7:30 hours per day for at least 20 days per month.
   * Get a better sleeping place for myself.
 * Have my weight <= 80 kg.
   * Do at least 8000 steps every day
 * fix >= 2 of my health problems
-* write code >= 3 days per week. programming language doesn't matter.
+* write code every day. programming language doesn't matter.
 * earn 5000 USD per month after expenses.
   * start investing in ETF fund(s)
 * start speaking Thai, even if it will be very simple talks.

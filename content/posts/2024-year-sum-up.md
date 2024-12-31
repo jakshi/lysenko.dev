@@ -83,13 +83,14 @@ I could make this list much longer, but it wouldn't be practical, so I will limi
     * split keyboard
     * [Photos](#office-work-from-home-setup-revamp)
 * I read some books. 20 minutes of books reading every day. Books I read:
+    * "Database Reliability Engineering: Designing and Operating Resilient Database Systems" by Laine Campbell and Charity Majors
     * "System Design Interview – An insider's guide" by Alex Xu, Volumes 1 and 2
 * We travelled:
     * Malaysia, Kuala Lumpur
         * Mainly to get new visas for Thailand.
         * In addition we also went to cool places for kids.
             * Kidzania - kids can try different professions there.
-            * Some kids big playground
+            * Super Park - kids can play there, trampoline, slides, climbing walls and more :)
         * [Photos](#malaysia-trip)
     * Thailand, Khao Kho
         * We visited "Amazing Dinosaurs" and Windmill farms.
@@ -143,31 +144,58 @@ I could make this list much longer, but it wouldn't be practical, so I will limi
 I want to:
 
 * I want to reduce doom scrolling to less than 30 minutes per day.
+    * Doom scrolling is:
+        * Facebook
+        * Telegram
+        * Twitter
+        * Reddit
+        * Google News
+        * Netflix
+    * I can control it through screen time log on my phone.
 * I want to be mindful every day.
+    * That's hard to measure.
+    * I can check my mood and what I'm worry about monthly.
 * I want to keep my performance at work at more than expected or better level
 * sleep >= 7:30 hours per day for at least 20 days per month.
-  * Get a better sleeping place for myself.
+    * Get a better sleeping place for myself.
 * Have my weight <= 80 kg.
-  * Do at least 8000 steps every day
+    * Do at least 8000 steps monthly average.
+    * I want to try monthly average, to incentivize me to do more than 8k steps on some days to compensate for less steps on other days.
 * fix >= 2 of my health problems
 * write code every day. programming language doesn't matter.
 * earn 5000 USD per month after expenses.
-  * start investing in ETF fund(s)
-* start speaking Thai, even if it will be very simple talks.
+    * continue to invest in ETF fund(s) and provident fund
+    * find 3rd source of income.
+* Get progress in moving to Australia.
+    * Define plan, milestones, what my progress look like.
+    * Start to move towards that goal.
+* Save 100 hours by automating things.
+    * Personal finance
+    * Bills
+    * Tasks logs
+    * Migrate all my notes to Obsidian
+* That can sound silly - but I want a better chair :)
+* I want to limit coffee to 1 cup per week.
 
 # Retrospective on 2024 goals.
 I wanted:
 
 * I want to plan every coming day.
 * sleep >= 7:30 hours per day for at least 20 days per month.
-  * Get a better sleeping place for myself.
+    * Get a better sleeping place for myself.
+    * 5 months out of 12
 * Have my weight <= 90 kg.
-  * Do at least 8000 steps every day
+    * Do at least 8000 steps every day
+    * 2 months out of 12
 * fix >= 2 of my health problems
 * write code >= 3 days per week. programming language doesn't matter.
+    * Finding sunday coding sessions was a great help.
+    * I also do programming exercises from Cracking the Coding Interview book every weekend.
 * earn 5000 USD per month after expenses.
-  * start investing in ETF fund(s)
+    * I continue to invest in ETF fund(s)
+    * I started to invest in provident fund.
 * start speaking Thai, even if it will be very simple talks.
+    * I'm in fully Thai team now, that helps :)
 
 # Gallery
 ## Job search

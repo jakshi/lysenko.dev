@@ -57,6 +57,7 @@ topics = []
 * I preform much better with walking this year
 * We have a successful trip with kids to neighboring town to visit a zoo and celebrate our daughter 3rd birthday :)
 * I read some books. 20 minutes of books reading every day. Books I read:
+    * "Poor Dad - Rich Dad"
     * "Think again"
     * "Phoenix project"
     * "Millionaire teacher"
@@ -115,7 +116,7 @@ I want to:
     * make my eyesight better than before.
 * write code >= 3 days per week. programming language doesn't matter.
 * earn 5000 USD per month after expenses.
-    * start investing in ETF fund(s)
+    * continue to invest in ETF fund(s)
 * start speaking Thai, even if it will be very simple talks.
 
 # Retrospective on 2023 goals.
@@ -124,13 +125,17 @@ I wanted:
 * I want to plan every coming day.
 * sleep >= 7:30 hours per day for at least 20 days per month.
     * Get a better sleeping place for myself.
+    * 1 month out of 12.
 * Have my weight <= 90 kg.
     * Do at least 8000 steps every day
+    * 2 months out of 12.
 * fix >= 2 of my health problems
     * make my eyesight better than before.
 * write code >= 3 days per week. programming language doesn't matter.
 * earn 5000 USD per month after expenses.
     * start investing in ETF fund(s)
+    * That was a good start.
+    * Books on finances that I read translated in 80/20 VTI/VGSH experimental portfolio.
 * start speaking Thai, even if it will be very simple talks.
 
 # Gallery

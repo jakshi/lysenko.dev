@@ -119,9 +119,10 @@ I could make this list much longer, but it wouldn't be practical, so I will limi
 
 ## Job search story in 2024
 
-* That is a story with many turns.
+* In February 2024 PropertyGuru laid off all engineers in Bangkok office.
 * IT job market is very cold in 2024.
 * I realized that sending CVs to companies is not effective.
+    * Before I realized that I spent a lot of time optimizing my CV and sending it to companies.
 * You need to contact people directly.
 * So finding a job is now a full time job by itself.
 * For me it wasn't very hard to pass the job interviews, but it was hard to get them.

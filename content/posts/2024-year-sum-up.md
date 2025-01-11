@@ -145,6 +145,7 @@ I could make this list much longer, but it wouldn't be practical, so I will limi
 I want to:
 
 * I want to reduce doom scrolling to less than 30 minutes per day.
+    * Why? it steals my time and my motivation (due to dopamine depletion)
     * Doom scrolling is:
         * Facebook
         * Telegram
@@ -154,40 +155,61 @@ I want to:
         * Netflix
     * I can control it through screen time log on my phone.
 * I want to be mindful every day.
+    * Why? it makes me happier and more productive.
     * That's hard to measure.
     * I can check my mood and what I'm worry about monthly.
-* I want to keep my performance at work at more than expected or better level
+* I want to excel at workplace
+    * Why? it will help my money goal and move to Australia goal
+    * How?
+        * keep my performance at work at more than expected or better level
+        * learn new things
+        * have progress in my career (establish track to senior lead engineer)
 * sleep >= 7:30 hours per day for at least 20 days per month.
-    * Get a better sleeping place for myself.
+    * Why? it's a foundation of everything.
+        * Get a better sleeping place for myself.
 * Have my weight <= 80 kg.
+    * Why? to feel better, to have more energy, to progress in workplace (it's much easier to go to office when you lighter), to make life easier.
     * Do at least 8000 steps monthly average.
     * I want to try monthly average, to incentivize me to do more than 8k steps on some days to compensate for less steps on other days.
 * fix >= 2 of my health problems
+    * Why? to make my life easier and more enjoyable.
 * write code every day. programming language doesn't matter.
+    * Why? to progress in my career.
+    * continue with Sunday coding sessions.
+    * Find one more way to practice coding.
 * earn 5000 USD per month after expenses.
+    * Why? to have more freedom, that will make me happier.
     * continue to invest in ETF fund(s) and provident fund
     * find 3rd source of income.
 * Get progress in moving to Australia.
+    * Why? unsureness about my future in Thailand makes me anxious and stressed.
     * Define plan, milestones, what my progress look like.
     * Start to move towards that goal.
 * Save 100 hours by automating things.
+    * Why? I'll have more time and it will help me with my coding practice.
     * Personal finance
     * Bills
     * Tasks logs
     * Migrate all my notes to Obsidian
 * That can sound silly - but I want a better chair :)
+    * Why? My lower back will thank me.
 * I want to limit coffee to 1 cup per week.
+    * Why? I will sleep better and my stomach will feel better.
 
 # Retrospective on 2024 goals.
 I wanted:
 
 * I want to plan every coming day.
+    * It appeared to be superfluous. Currently I think that instead of list of tasks you need list of priorities.
 * sleep >= 7:30 hours per day for at least 20 days per month.
     * Get a better sleeping place for myself.
     * 5 months out of 12
+    * Better than 2023, but still not enough.
+    * That should be my priority in 2025 as sleep is a foundation of everything.
 * Have my weight <= 90 kg.
     * Do at least 8000 steps every day
     * 2 months out of 12
+    * I'll try 8k average steps every day, that should motivate me to do more than 8k steps on some days to compensate for less steps on other days.
 * fix >= 2 of my health problems
 * write code >= 3 days per week. programming language doesn't matter.
     * Finding sunday coding sessions was a great help.

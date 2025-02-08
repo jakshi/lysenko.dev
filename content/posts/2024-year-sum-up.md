@@ -154,6 +154,9 @@ I want to:
         * Google News
         * Netflix
     * I can control it through screen time log on my phone.
+    * I can make it less attractive by adding delay to opening those apps.
+        * Implemented on Facebook and Twitter.
+    * I can make it less attractive by grayscaling those apps.
 * I want to be mindful every day.
     * Why? it makes me happier and more productive.
     * That's hard to measure.
@@ -170,7 +173,7 @@ I want to:
 * Have my weight <= 80 kg.
     * Why? to feel better, to have more energy, to progress in workplace (it's much easier to go to office when you lighter), to make life easier.
     * Do at least 8000 steps monthly average.
-    * I want to try monthly average, to incentivize me to do more than 8k steps on some days to compensate for less steps on other days.
+        * I want to try monthly average, to incentivize me to do more than 8k steps on some days to compensate for less steps on other days.
 * fix >= 2 of my health problems
     * Why? to make my life easier and more enjoyable.
 * write code every day. programming language doesn't matter.
@@ -181,6 +184,7 @@ I want to:
     * Why? to have more freedom, that will make me happier.
     * continue to invest in ETF fund(s) and provident fund
     * find 3rd source of income.
+    * fix my accounting, track and optimize my expenses.
 * Get progress in moving to Australia.
     * Why? unsureness about my future in Thailand makes me anxious and stressed.
     * Define plan, milestones, what my progress look like.

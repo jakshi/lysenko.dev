@@ -180,6 +180,7 @@ I want to:
     * Why? to progress in my career.
     * continue with Sunday coding sessions.
     * Find one more way to practice coding.
+        * Find mentor in coding (I'll start with ChatGPT)
 * earn 5000 USD per month after expenses.
     * Why? to have more freedom, that will make me happier.
     * continue to invest in ETF fund(s) and provident fund

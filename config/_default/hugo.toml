@@ -1,0 +1,22 @@
+baseURL = "https://lysenko.dev/"
+theme = "blowfish"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+pluralizeListTitles = false
+summaryLength = 0
+
+[pagination]
+  pagerSize = 10
+
+[services.disqus]
+  shortname = "jakshi-life"
+
+[services.googleAnalytics]
+  id = "G-404295875"
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

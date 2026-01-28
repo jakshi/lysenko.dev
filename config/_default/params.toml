@@ -1,0 +1,32 @@
+colorScheme = "ocean"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+mainSections = ["posts"]
+
+[header]
+  layout = "basic"
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 5
+  cardView = true
+  cardViewScreenWidth = false
+
+[article]
+  showDate = true
+  showDateUpdated = false
+  showTaxonomies = true
+  showReadingTime = true
+  showTableOfContents = true
+  showComments = true
+
+[list]
+  showTableOfContents = false
+
+[footer]
+  showAppearanceSwitcher = true
+  showScrollToTop = true

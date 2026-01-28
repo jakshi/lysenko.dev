@@ -3,7 +3,6 @@ title = "Chicken Soup"
 date = "2019-06-22T17:23:23+07:00"
 draft = false
 tags = ["food"]
-topics = []
 description = ""
 +++
 

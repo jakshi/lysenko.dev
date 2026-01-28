@@ -4,7 +4,6 @@ description = ""
 draft = false
 tags = ["chatgpt", "llm", "ai", "ted"]
 title = "Review of TED talk about AI LLM being smart and stupid"
-topics = []
 
 +++
 

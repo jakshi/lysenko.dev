@@ -3,7 +3,6 @@ title = "Disable MacOS X dark mode for specific application"
 date = "2019-08-21T14:22:00+07:00"
 draft = false
 tags = ["macosx", "dark mode"]
-topics = []
 description = ""
 +++
 

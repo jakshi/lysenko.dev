@@ -4,7 +4,6 @@ description = ""
 draft = false
 tags = ["terraform", "terragrunt", "code generation", "how-to"]
 title = "Terraform dynamic code generation with terragrunt"
-topics = []
 
 +++
 

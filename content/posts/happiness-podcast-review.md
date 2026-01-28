@@ -4,7 +4,6 @@ description = ""
 draft = false
 tags = ["happiness", "ted", "life", "review"]
 title = "Review of Design your life for happiness with Elizabeth Dunn"
-topics = []
 
 +++
 

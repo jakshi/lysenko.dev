@@ -3,7 +3,6 @@ title = "Udemy course review - Make Better Decisions"
 date = "2023-04-13T15:05:00+07:00"
 draft = false
 tags = ["productivity", "review", "udemy", "course"]
-topics = []
 description = ""
 +++
 

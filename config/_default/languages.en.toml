@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Kostiantyn Lysenko"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+
+[params.author]
+  name = "Kostiantyn Lysenko"
+  image = "img/author.jpeg"
+  headline = "Kostiantyn Lysenko's casual blog"
+  links = [
+    { email = "mailto:kostiantyn@lysenko.pw" },
+    { github = "https://github.com/jakshi/" },
+    { facebook = "https://www.facebook.com/fjakshi" },
+    { linkedin = "https://www.linkedin.com/in/kostiantynlysenko/" },
+  ]

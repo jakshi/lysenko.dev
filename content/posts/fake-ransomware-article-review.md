@@ -4,7 +4,6 @@ description = ""
 draft = false
 tags = ["security", "ransomware"]
 title = "Review of Fake ransomware article"
-topics = []
 
 +++
 

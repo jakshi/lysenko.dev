@@ -3,7 +3,6 @@ title = "Cloudflare 1.1.1.1 outage Post Mortem and Monocle"
 date = "2024-07-06T18:23:02+07:00"
 draft = false
 tags = ["bgp", "post-mortem", "monocle", "cloudflare"]
-topics = []
 description = "Cloudflare 1.1.1.1 outage post mortem and Monocle tool"
 
 +++

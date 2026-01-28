@@ -3,9 +3,8 @@ date = "2016-03-30T23:32:55+08:00"
 description = ""
 draft = false
 tags = ["yearly sum up"]
-series = "retrospectives"
+series = ["retrospectives"]
 title = "2015 year sum up"
-topics = []
 
 +++
 

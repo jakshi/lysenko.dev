@@ -4,7 +4,6 @@ description = ""
 draft = false
 tags = ["vim", "neovim", "spacevim", "how-to"]
 title = "How to add showcmd to spacevim"
-topics = []
 
 +++
 

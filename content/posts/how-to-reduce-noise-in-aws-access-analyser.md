@@ -4,7 +4,6 @@ description = ""
 draft = false
 tags = ["aws", "security", "automation", "false-positive"]
 title = "Insights on how to reduce noise in AWS Access Analyser"
-topics = []
 
 +++
 

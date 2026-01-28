@@ -1,0 +1,33 @@
+[[main]]
+  name = "Posts"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 20
+
+[[main]]
+  name = "Contacts"
+  pageRef = "contacts"
+  weight = 30
+
+[[main]]
+  name = "My DevOps Blog"
+  url = "https://verydevops.com"
+  weight = 40
+  [main.params]
+    external = true
+
+[[main]]
+  name = "Search"
+  weight = 50
+  [main.params]
+    action = "search"
+
+[[main]]
+  name = "Appearance"
+  weight = 60
+  [main.params]
+    action = "appearance"

@@ -1,0 +1,16 @@
+[goldmark]
+  unsafe = true
+
+[goldmark.parser]
+  wrapStandAloneImageWithinParagraph = false
+
+[goldmark.parser.attribute]
+  block = true
+  title = true
+
+[highlight]
+  noClasses = false
+
+[tableOfContents]
+  startLevel = 1
+  endLevel = 3

@@ -3,7 +3,6 @@ title = "Generate QR Codes with URL From CLI"
 date = "2024-07-13T19:19:38+07:00"
 draft = false
 tags = ["cli", "qr-code", "url"]
-topics = []
 description = ""
 +++
 

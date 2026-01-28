@@ -2,7 +2,7 @@
 title = "2012 year sum up"
 date = "2012-12-31T16:34:00+07:30"
 tags = ["yearly sum up"]
-series = "retrospectives"
+series = ["retrospectives"]
 +++
 
 * Two important things that I did this year: 

@@ -3,7 +3,6 @@ title = "Introspection Bits"
 date = "2024-07-14T20:41:20+07:00"
 draft = false
 tags = ["psychology", "mind", "introspection"]
-topics = []
 description = ""
 +++
 

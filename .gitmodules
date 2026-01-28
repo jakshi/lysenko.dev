@@ -1,3 +1,4 @@
-[submodule "themes/poison"]
-	path = themes/poison
-	url = https://github.com/lukeorth/poison.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+	branch = main

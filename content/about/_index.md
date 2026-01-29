@@ -12,7 +12,7 @@ description: "Short page about myself"
 # Interests
 
 * SRE
-* Programming
+* Programming (Go, Python, Rust)
 * Traveling
 * Meet interesting people
 * Learning languages

@@ -21,3 +21,7 @@ Without cells, canary helps with gradual rollout, but all users still share the 
 The bulkhead pattern from ships: one compartment floods, the rest stay dry.
 
 ![Bulkhead pattern - cell-based architecture](/img/cell-based-architecture-bulkhead-pattern.png)
+
+## References
+
+- [AWS Well-Architected: Cell-Based Architecture](https://docs.aws.amazon.com/wellarchitected/latest/reducing-scope-of-impact-with-cell-based-architecture/what-is-a-cell-based-architecture.html) - AWS guide on reducing scope of impact with cells

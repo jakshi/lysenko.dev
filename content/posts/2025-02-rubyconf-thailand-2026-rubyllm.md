@@ -1,7 +1,7 @@
 +++
 title = "RubyConf Thailand 2026 - RubyLLM"
 date = "2025-02-11T10:00:00+07:00"
-draft = true
+draft = false
 tags = ["ruby", "conference", "llm", "ai"]
 description = ""
 +++

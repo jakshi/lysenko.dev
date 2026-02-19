@@ -1,6 +1,6 @@
 +++
 title = "What I Read in 2023"
-date = "2024-01-01T10:00:00+07:00"
+date = "2026-02-19T10:00:00+07:00"
 draft = false
 tags = ["reading", "aws", "kubernetes", "devops", "security", "ai"]
 description = ""

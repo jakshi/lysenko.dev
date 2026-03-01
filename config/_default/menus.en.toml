@@ -19,15 +19,3 @@
   weight = 40
   [main.params]
     external = true
-
-[[main]]
-  name = "Search"
-  weight = 50
-  [main.params]
-    action = "search"
-
-[[main]]
-  name = "Appearance"
-  weight = 60
-  [main.params]
-    action = "appearance"

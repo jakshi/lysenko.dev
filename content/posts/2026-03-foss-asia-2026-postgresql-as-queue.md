@@ -16,7 +16,7 @@ There was a great talk about using PostgreSQL as a queue, and the approach is si
 
 Instead of adding RabbitMQ, Redis, or SQS to your stack — just use a table:
 
-![Queue table design at FOSS Asia 2026](/img/foss-asia-2026-pg-queue-table.png)
+![Queue table design at FOSS Asia 2026](/img/foss-asia-2026-pg-queue-table.jpg)
 
 The key columns: `name`, `key`, `status`, `payload` (JSONB), `retry_count`, and timestamps. The table is partitioned by `enqueue_dt` for performance.
 

@@ -1,6 +1,6 @@
 +++
 title = "Delta - Better Git Diffs in Terminal"
-date = "2026-03-22T15:00:00+07:00"
+date = "2026-03-22T10:00:00+07:00"
 draft = false
 tags = ["git", "cli", "tools"]
 description = ""

@@ -1,6 +1,6 @@
 +++
 title = "YAMLResume - Resume as Code"
-date = "2025-01-31T10:00:00+07:00"
+date = "2026-01-31T10:00:00+07:00"
 draft = false
 tags = ["cli", "yaml", "latex", "resume", "llm", "ai"]
 description = ""

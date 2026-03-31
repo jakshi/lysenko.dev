@@ -41,15 +41,17 @@ The review commands are fire-and-forget. You kick them off, keep working, and ch
 
 ## Sandbox restrictions
 
-I wanted to use `/codex:rescue` to read an image outside the repo. It refused. I dug into the source and found why.
+I dug into `codex-companion.mjs` to understand how the plugin sandboxes Codex. Two rules:
 
-Line 460 of `codex-companion.mjs`:
+**Reviews** (`/codex:review`, `/codex:adversarial-review`) are hardcoded to `read-only`. They never modify files. No flag to change this.
+
+**Tasks** (`/codex:rescue`) default to `workspace-write` — the rescue agent adds `--write` unless you ask for read-only or the task is pure research:
 
 ```javascript
 sandbox: request.write ? "workspace-write" : "read-only"
 ```
 
-The plugin hardcodes sandbox to either "read-only" or "workspace-write". Both modes restrict file access to the working directory. No exceptions, no config flag.
+Both modes restrict file access to the working directory. No reading outside the repo, no exceptions, no config flag.
 
 Codex CLI itself supports broader access. You can run `codex exec -s danger-full-access` or pass `-c 'sandbox_permissions=["disk-full-read-access"]'` for full disk reads, and `-i` to attach images. The plugin exposes none of this.
 

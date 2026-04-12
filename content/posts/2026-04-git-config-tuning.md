@@ -55,7 +55,7 @@ My git config grew over years — an alias here, a setting there. After a recent
     all = true                      # fetch from all remotes
 
 [pull]
-    rebase = false                  # merge by default, rebase intentionally
+    rebase = true                   # rebase by default, keep history linear
 
 [commit]
     verbose = true                  # show diff in commit message editor
@@ -138,6 +138,12 @@ For years I typed `git push -u origin feature-x` on every new branch. `autoSetup
 `followTags` pushes annotated tags alongside their commits. I used to forget `git push --tags` after releases. Now tags travel with the code.
 
 On the fetch side, `prune` removes stale remote-tracking branches on every fetch. Delete a branch on GitHub and the local reference disappears. `all` fetches from every remote — useful when you work with forks and keep both `origin` and `upstream`.
+
+### Pulling with rebase
+
+`pull.rebase = true` replays local commits on top of the upstream branch — no merge commits, linear history, easier to read and bisect.
+
+Sometimes you want to preserve the merge point: pulling a release branch into a long-lived integration branch, for example. Override it with `git pull --no-rebase`.
 
 ### Rebasing without friction
 

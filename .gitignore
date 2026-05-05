@@ -62,3 +62,6 @@ vendor
 !/public/CNAME
 
 .hugo_build.lock
+
+# Playwright MCP
+.playwright-mcp

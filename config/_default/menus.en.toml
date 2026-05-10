@@ -12,10 +12,3 @@
   name = "Contacts"
   pageRef = "contacts"
   weight = 30
-
-[[main]]
-  name = "My DevOps Blog"
-  url = "https://verydevops.com"
-  weight = 40
-  [main.params]
-    external = true

@@ -65,3 +65,6 @@ vendor
 
 # Playwright MCP
 .playwright-mcp
+
+# Draft articles
+/drafts/

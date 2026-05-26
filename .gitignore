@@ -66,5 +66,8 @@ vendor
 # Playwright MCP
 .playwright-mcp
 
+# Antigravity CLI
+.antigravitycli/
+
 # Draft articles
 /drafts/

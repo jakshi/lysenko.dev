@@ -71,3 +71,9 @@ vendor
 
 # Draft articles
 /drafts/
+
+# Claude Code
+.claude/
+
+# Hugo generated asset cache (regenerable from assets/)
+/resources/_gen/
